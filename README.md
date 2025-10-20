@@ -9,7 +9,7 @@
 </p>
 
 ## About-Me: 💻
-I'm wired-user, a student. I focus on web penetration testing and low level programming. My goal is to make money and go deeper into computers.
+I'm a wired-user, a student. I focus on web penetration testing and low level programming. My goal is to make money and go deeper into computers.
 
 ## Tools & Languages: 🛡️
 <p align="center">
@@ -21,11 +21,10 @@ I'm wired-user, a student. I focus on web penetration testing and low level prog
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/neooverride/LeetCode-Solutions/main/Linked-List./Wireshark_icon_new.png" alt="wireshark" width="40"/>
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/neooverride/LeetCode-Solutions/main/Linked-List./C++_logo.png" alt="wireshark" width="40"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/neooverride/LeetCode-Solutions/main/Linked-List./python.png" alt="python.png" width="40"/>
-  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/neooverride/LeetCode-Solutions/main/Linked-List./icons8-assembly-96.png" alt="wireshark" width="40"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/neooverride/LeetCode-Solutions/main/Linked-List./C++_logo.png" alt="wireshark" width="40"/>
+
 
 </p>
 
