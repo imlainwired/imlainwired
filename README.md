@@ -12,8 +12,7 @@ I'm a wired-user, a student. I focus on web penetration testing and low level pr
 ## Tools & Languages: 🛡️
 
 ```bash
-user@machine:~$ cat tools.sh
-+--------------+  +------------+  +------+  +-----------+  +----------+  +-----+
-| Cheat-Engine |  | Burp-Suite |  | Nmap |  | Wireshark |  | Assembly |  | C++ |
-+--------------+  +------------+  +------+  +-----------+  +----------+  +-----+
+imlainwired@machine:~$ ls stuff.txt
+ 
+[Cheat-Engine]  [Burp-Suite]  [Nmap]  [Wireshark]  [Assembly]  [C++]
 ```
