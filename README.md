@@ -14,5 +14,5 @@ I'm a wired-user, a student. I focus on web penetration testing and low level pr
 ```bash
 imlainwired@machine:~$ ls stuff.txt
  
-[Cheat-Engine]  [Burp-Suite]  [Nmap]  [Wireshark]  [Assembly]  [C++]
+[Cheat-Engine]  [Burp-Suite]  [Nmap]  [Wireshark]  [Assembly]  [C++] [Python]
 ```
