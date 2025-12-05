@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzVwMWN4aGl0dnJ0Y3BrMGt0MDdheDZiejQxbGpuem0zcnd5dTV6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PZrjGkr334fXa/giphy.gif" alt="Hacking Vibes" width="500"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnE0dmsxMXFoMGZvNXBzdjVuNmZqajA2cmdpeWJlMWpub2luNnA1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Vje0QxufgTtK/giphy.gif" alt="Hacking Vibes" width="600"/>
 </p>
 
 <p align="center">
