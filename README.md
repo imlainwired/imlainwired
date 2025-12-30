@@ -7,7 +7,7 @@
 </p>
 
 ## About-Me: 💻
-I'm a wired-user, a student. I focus on web penetration testing and low level programming. My goal is to make money and go deeper into computers.
+I'm a wired-user, a student. I focus on web penetration testing, reverse engineering and low level programming. My goal is to make money and go deeper into computers.
 
 ## Tools & Languages: 🛡️
 
