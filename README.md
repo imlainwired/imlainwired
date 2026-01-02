@@ -12,7 +12,7 @@ I'm a wired-user, a student. I focus on web penetration testing, reverse enginee
 ## Tools & Languages: 🛡️
 
 ```bash
-imlainwired@machine:~$ ls stuff.txt
+imlainwired@machine:~$ ls computer.txt
  
 [Cheat-Engine]  [Burp-Suite]  [Nmap]  [MetaSploit]  [Wireshark]  [Assembly]  [C++]  [Python]  [JavaScript]
 ```
